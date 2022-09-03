@@ -31,4 +31,3 @@ Objects have state and behavior called instance variables and methods
 A claas descibes an object and what an object does
 A method uses parameters 
 A caller passes arguments
-
